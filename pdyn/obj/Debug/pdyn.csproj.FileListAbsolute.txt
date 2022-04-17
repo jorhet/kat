@@ -1,0 +1,175 @@
+D:\kyrsach\k5\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\k5\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\k5\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\k5\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\k5\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\k5\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\k5\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\k5\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\k5\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\k5\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\k5\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\k5.04.02\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\k5.04.02\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\k5.04.02\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\k5.04.02\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\k5.04.02\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\k5.04.02\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\k5.04.02\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\k5.04.02\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\k5.04.02\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\k5.04.02\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\k5.04.02\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\k5.07.02\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\k5.07.02\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\k5.07.02\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\k5.07.02\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\k5.07.02\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\k5.07.02\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\k5.07.02\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\k5.07.02\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\k5.07.02\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\k5.07.02\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\k5.07.02\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\bin\Debug\pdyn.exe.config
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\obj\Debug\pdyn.exe
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\obj\Debug\pdyn.pdb
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\bin\Debug\Borders.txt
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\bin\Debug\pdyn.exe
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\bin\Debug\pdyn.pdb
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+C:\Data VAIO\MSU\Stud&Asp\Татаринцева Мария\pdyn - 20180222\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\pdyn25,03\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\pdyn25,03\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\pdyn25,03\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\pdyn25,03\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\pdyn25,03\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\pdyn25,03\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\pdyn25,03\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\pdyn25,03\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\pdyn25,03\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\pdyn25,03\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\pdyn05.04\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\pdyn05.04\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\pdyn05.04\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\pdyn05.04\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\pdyn05.04\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\pdyn05.04\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\pdyn05.04\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\pdyn05.04\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\pdyn05.04\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\pdyn05.04\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\pdyn05.04\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\pdyn25.10\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\pdyn25.10\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\pdyn25.10\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\pdyn25.10\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\pdyn25.10\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\pdyn25.10\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\pdyn25.10\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\pdyn25.10\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\pdyn25.10\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\pdyn25.10\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\pdyn28.01\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\pdyn28.01\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\pdyn28.01\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\pdyn28.01\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\pdyn28.01\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\pdyn28.01\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\pdyn28.01\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\pdyn28.01\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\pdyn28.01\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\pdyn28.01\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\pdyn28.01\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\19.03.2019\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\19.03.2019\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.exe.config
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.exe
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.pdb
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\Borders.txt
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.exe
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.pdb
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\mscorlib.dll
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\System.Net.Http.dll
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\System.Net.Http.xml
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\ru\mscorlib.resources.dll
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\normidna.nlp
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\normnfc.nlp
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\normnfd.nlp
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\normnfkc.nlp
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\bin\Debug\normnfkd.nlp
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+C:\Data\MSU\Stud&Asp\Татаринцева Мария\2019\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\20190324\20190324\19.03.2019\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\20190415\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\20190415\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\20190415\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\20190415\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\20190415\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\20190415\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\20190415\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\20190415\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\20190415\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\20190415\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\20190415\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\20190427\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\20190427\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\20190427\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\20190427\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\20190427\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\20190427\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\20190427\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\20190427\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\20190427\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\20190427\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+D:\kyrsach\20190427\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\20190514\pdyn\pdyn\bin\Debug\pdyn.exe.config
+D:\kyrsach\20190514\pdyn\pdyn\obj\Debug\pdyn.exe
+D:\kyrsach\20190514\pdyn\pdyn\obj\Debug\pdyn.pdb
+D:\kyrsach\20190514\pdyn\pdyn\bin\Debug\Borders.txt
+D:\kyrsach\20190514\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+D:\kyrsach\20190514\pdyn\pdyn\bin\Debug\pdyn.exe
+D:\kyrsach\20190514\pdyn\pdyn\bin\Debug\pdyn.pdb
+D:\kyrsach\20190514\pdyn\pdyn\obj\Debug\pdyn.csprojResolveAssemblyReference.cache
+D:\kyrsach\20190514\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+D:\kyrsach\20190514\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+D:\kyrsach\20190514\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.Cache
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\bin\Debug\Borders.txt
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\bin\Debug\Razmeshenie.txt
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\bin\Debug\pdyn.exe.config
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\bin\Debug\pdyn.exe
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\bin\Debug\pdyn.pdb
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.Form1.resources
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.Properties.Resources.resources
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.csproj.GenerateResource.cache
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.exe
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.pdb
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Documents\20190514\pdyn\pdyn\obj\Debug\pdyn.csproj.SuggestedBindingRedirects.cache
